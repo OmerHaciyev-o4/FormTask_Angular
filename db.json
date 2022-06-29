@@ -1,0 +1,15 @@
+{
+  "reservs": [
+    {
+      "name": "Omer",
+      "mail": "omer04118102@gmail.com",
+      "phone": "+944773451317",
+      "note": "Dostlarla gorush.",
+      "people": "3",
+      "smoking": true,
+      "date": "29. Jun 2022",
+      "time": "23:00",
+      "id": 1
+    }
+  ]
+}
